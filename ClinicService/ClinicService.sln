@@ -14,9 +14,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicClient", "ClinicClient\ClinicClient.csproj", "{4B03D60B-7E0D-49ED-8828-0C1C963C2BC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtSample", "JwtSample\JwtSample.csproj", "{51CE6A01-2DBB-4CD5-BA0C-B3AFA473F69D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtSample", "JwtSample\JwtSample.csproj", "{51CE6A01-2DBB-4CD5-BA0C-B3AFA473F69D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountSample", "AccountSample\AccountSample.csproj", "{F104D239-E84E-4092-AA77-65DBE3E62A9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountSample", "AccountSample\AccountSample.csproj", "{F104D239-E84E-4092-AA77-65DBE3E62A9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
